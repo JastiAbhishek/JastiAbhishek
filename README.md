@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### 😃 My name is Abhishek Jasti. Nickname: AJ
-#### 🥇 I am a computer engineering major at CSULB. My favorite hobby is to play sports. Any sport.
+#### 😃 My name is Abhishek Jasti. You can call me AJ
 #### 📫 How to reach me: abhishek.jasti00@yahoo.com or My phone number: (714) 395-7593
 <!--
 **JastiAbhishek/JastiAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
